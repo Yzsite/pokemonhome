@@ -1,4 +1,4 @@
-AuthUserFile ".htpasswd"
+AuthUserFile "pokemonhome/.htpasswd"
 AuthName "Enter password"
 AuthType BASIC
 require valid-user
